@@ -1,0 +1,12 @@
+{
+  "name": "動物麻醉監測記錄",
+  "short_name": "麻醉監測",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0b1e3b",
+  "theme_color": "#0b1e3b",
+  "icons": [
+    { "src": "螢幕擷取畫面 2025-11-24 013105.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "螢幕擷取畫面 2025-11-24 013105.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

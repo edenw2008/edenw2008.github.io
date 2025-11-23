@@ -1,0 +1,6 @@
+{
+  "appId": "com.nar.anesthesia",
+  "appName": "麻醉監測",
+  "webDir": ".",
+  "bundledWebRuntime": false
+}
